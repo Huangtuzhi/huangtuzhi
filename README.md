@@ -4,3 +4,5 @@
 - 📫 How to reach me: [黄岛主](https://fuzhii.com)
 
 ![huangtuzhi's github stats](https://github-readme-stats.vercel.app/api?username=huangtuzhi&show_icons=true)
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gs0chl35z6j325s0m8jv7.jpg)
